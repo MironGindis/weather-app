@@ -1,0 +1,22 @@
+.Search {
+    position: relative;
+}
+.Search textarea {
+    width: 98%;
+    height: 24px;
+    resize: none;
+    position: relative;
+    overflow: auto;
+    margin-bottom: 0;
+}
+.Search textarea {
+    outline: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #444444;
+}
+.image {
+    position: absolute;
+    top: 0;
+    right: 0;
+}

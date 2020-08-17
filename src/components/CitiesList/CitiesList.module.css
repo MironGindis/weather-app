@@ -1,0 +1,29 @@
+.CitiesList {
+    flex: 0 1 50%;
+    padding: 10px;
+}
+.SearchList {
+    padding: 0 5px;
+    margin-top: 0;
+    border: 1px solid black;
+    border-top: none;
+    font-size: 18px;
+    color: #444444;
+}
+.MyCitiesItem {
+    font-size: 18px;
+    font-weight: 400;
+    color: #444444;
+    display: flex;
+    justify-content: space-between;
+}
+.active {
+    font-weight: 500;
+    color: #000000;
+}
+.image {
+    height: 16px;
+}
+.image img {
+    height: 100%;
+}

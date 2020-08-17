@@ -1,0 +1,9 @@
+.app {
+  margin: 0 auto;
+  width: 750px;
+  display: flex;
+  min-height: 280px;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+}
